@@ -41,6 +41,4 @@ FILES INCLUDED:
 GITHUB REPOSITORY:
 ------------------
 Link: https://github.com/bscs14f2574-hub/Inventory-Management-Stock-Analysis-Library
-GITHUB REPOSITORY:
-------------------
-Link: https://github.com/bscs14f2574-hub/Inventory-Management-Stock-Analysis-Library
+
