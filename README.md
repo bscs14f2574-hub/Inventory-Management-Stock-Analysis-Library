@@ -13,7 +13,7 @@ Roll Number: 74
 Course: Object Oriented Programming (OOP)
 
 Instructor: Mam Iffat
-
+ 
 PROJECT DESCRIPTION:
 --------------------
 This project is a custom C++ Library designed to manage retail inventory and 
