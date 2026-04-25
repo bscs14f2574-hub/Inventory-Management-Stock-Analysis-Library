@@ -5,8 +5,11 @@ PROJECT: Inventory Management & Stock Analysis Library
 STUDENT DETAILS:
 ----------------
 Name: Manahil Khan
+
 Roll Number: 74
+
 Course: Object Oriented Programming (OOP)
+
 Instructor: Mam Iffat
 
 PROJECT DESCRIPTION:
